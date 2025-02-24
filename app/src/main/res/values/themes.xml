@@ -1,0 +1,7 @@
+<resources>
+    <style name="Base.Theme.Weight_Tracker" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/orange_100</item>
+        <item name="colorPrimaryDark">@color/purple_100</item>
+    </style>
+</resources>
+
